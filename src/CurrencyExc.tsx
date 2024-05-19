@@ -10,7 +10,7 @@ import {
   Typography,
 } from "@mui/material";
 
-import { ArrowDownward, ArrowUpward, CompareArrows } from "@mui/icons-material";
+import { CompareArrows } from "@mui/icons-material";
 import { useEffect, useState } from "react";
 
 export const CurrencyExc = () => {
