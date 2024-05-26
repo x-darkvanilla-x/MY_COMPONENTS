@@ -1,1 +1,7 @@
-ha
+export const Dog = () => {
+
+return (
+  <h1>hello world<\h1>
+) 
+
+}
