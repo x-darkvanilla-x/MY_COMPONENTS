@@ -6,7 +6,7 @@ import { LoginForm } from './LoginForm';
 import { Button, Stack } from '@mui/material';
 
 export const App = () => {
-  const [activeComponent, setActiveComponent] = useState('CurrencyExc');
+  const [activeComponent, setActiveComponent] = useState('Dog');
 
   const renderComponent = () => {
     switch (activeComponent) {
