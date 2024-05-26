@@ -35,6 +35,7 @@ export const App = () => {
         {renderComponent()}
       </Stack>
 <Dog />
+<h1>Hello World </h1>
     </>
   );
 };
