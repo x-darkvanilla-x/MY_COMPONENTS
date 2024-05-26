@@ -26,6 +26,7 @@ export const App = () => {
         <Button variant='contained' onClick={() => setActiveComponent('CurrencyExc')}>Currency Exchange</Button>
         <Button variant='contained' onClick={() => setActiveComponent('RegistrationForm')}>Registration Form</Button>
         <Button variant='contained' onClick={() => setActiveComponent('LoginForm')}>Login Form</Button>
+ <Button variant='contained' onClick={() => setActiveComponent('LoginForm')}>Dog Pics</Button>
       </Stack>
       <Stack sx={{ backgroundColor: "#222", padding: "50px 0px" }}>
         {renderComponent()}
