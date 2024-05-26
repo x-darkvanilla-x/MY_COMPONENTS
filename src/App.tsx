@@ -34,6 +34,7 @@ export const App = () => {
       <Stack sx={{ backgroundColor: "#222", padding: "50px 0px" }}>
         {renderComponent()}
       </Stack>
+<Dog />
     </>
   );
 };
