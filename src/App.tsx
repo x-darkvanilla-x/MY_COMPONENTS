@@ -32,11 +32,9 @@ export const App = () => {
         <Button variant='contained' onClick={() => setActiveComponent('Dog')}>Dog Pics</Button>
       </Stack>
 
-{/*
       <Stack sx={{ backgroundColor: "#222", padding: "50px 0px" }}>
         {renderComponent()}
       </Stack>
-*/}
 <Dog />
 <h1>Hello World </h1>
     </>
