@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { CurrencyExc } from './CurrencyExc';
-import { Dog } from '.dog.tsx';
+import { Dog } from './dog.tsx';
 import { RegistrationForm } from './RegistrationForm';
 import { LoginForm } from './LoginForm';
 import { Button, Stack } from '@mui/material';
